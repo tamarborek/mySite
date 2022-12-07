@@ -1,0 +1,38 @@
+/* all images in the page */
+ul {
+  list-style-type: circle;
+}
+img{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  width: 15%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h1 {
+  background-color: black;
+  color: white;
+  text-align: center
+}
+h2 {
+  text-align: center
+}
+span {
+  text-align: center
+}
+body{
+background-color: #F0FFFF;
+font-family: Cursive;
+display: block;
+margin: 8px;
+}
+p{
+	text-align: center
+}
+i{
+	class="fas fa-phone" 
+	font-size:24px;
+	color:green;
+}
